@@ -70,3 +70,4 @@ return (
 
 ---
 
+[![Build status](https://ci.appveyor.com/api/projects/status/vejcb8253e3lnjd9/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-store-class/branch/main)
